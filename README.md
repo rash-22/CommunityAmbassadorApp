@@ -29,4 +29,4 @@ This is a Java-based console application developed during my internship at Cloud
 
 ## Author
 
-[Your Full Name] — Internship Project for Cloud Counselage Pvt. Ltd.
+Rashmi Sahani — Internship Project for Cloud Counselage Pvt. Ltd.
